@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""a custom cmd module that contains the
+"""a custom cmd  module that contains the
 entry point of the command interpreter"""
 
 import cmd
