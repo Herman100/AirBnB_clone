@@ -15,6 +15,7 @@
   margin: 20px auto;
   border-radius: 4px;
   border: 1px solid #ff5a5f;
+  position: relative;
 }
 
 .places article h2 {
