@@ -1,0 +1,25 @@
+.popover {
+  background-color: #fafafa;
+  width: 100%;
+  border: 1px solid #dddddd;
+  border-radius: 4px;
+  display: none;
+  padding: 0;
+  margin: 0;
+}
+
+.locations:hover .popover,
+.amenities:hover .popover {
+  display: block;
+}
+
+.popover ul,
+ul li {
+  list-style-type: none;
+  text-align: left;
+}
+
+.popover h3 {
+  text-align: left;
+  padding-left: 20px;
+}
