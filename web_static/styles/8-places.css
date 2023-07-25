@@ -36,6 +36,13 @@
   width: 100px;
 }
 
+.max_guest p,
+.number_rooms p,
+.number_bathrooms p {
+  display: flex;
+  flex-direction: column;
+}
+
 .max_guest p:before {
   content: url(/images/icon_group.png);
   margin-right: 5px;
